@@ -1,0 +1,28 @@
+{
+  "name": "websocketsapp",
+  "version": "1.0.0",
+  "description": "Just an app to learn socket.io",
+  "homepage": "https://github.com/nealsonS/WebSocketsApp#readme",
+  "bugs": {
+    "url": "https://github.com/nealsonS/WebSocketsApp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nealsonS/WebSocketsApp.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.1",
+    "nodemon": "^3.1.11"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
